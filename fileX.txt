@@ -1,1 +1,2 @@
 Questa classe si impegna a tratti alterni
+La classe ora si impegna
